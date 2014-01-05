@@ -1,0 +1,498 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Ferdinand Bac",
+        "adresse": "Rue Othenin, Compiègne",
+        "info_localisation": "Salle localisée au sous-sol",
+        "precision_geo": "adresse",
+        "nom_long": "Compiègne Tennis de Table",
+        "nom_court": "Compiègne TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.828909754753113,
+          49.4202773105011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe sportif",
+        "adresse": "Rue Yves Carlier, Senlis",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_long": "",
+        "nom_court": "Senlis GS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5789734721183777,
+          49.20832997754689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "",
+        "adresse": "Place Henry Barbusse, Angy",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_court": "Angy-Burry TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3274680972099304,
+          49.330474604113924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Jean Moulin",
+        "adresse": "Impasse Saint-Jean, Nogent-sur-Oise",
+        "precision_geo": "rue",
+        "nom_court": "Nogent AJM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4577885866165157,
+          49.28406478999292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Jean Le Vourch, Foyer rural",
+        "adresse": "18 rue Louis Drouart, Les Ageux",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_court": "Les Ageux FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6017266511917114,
+          49.31711121332485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle René Martin",
+        "adresse": ", 114 Rue Voltaire, Ribécourt-Dreslincourt",
+        "precision_geo": "adresse",
+        "nom_court": "Ribécourt US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9245948791503906,
+          49.50605295398772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Raymond Devos",
+        "adresse": "Rue de Mello, Laigneville",
+        "precision_geo": "rue",
+        "nom_court": "Monchy-Laigneville EP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.441936731338501,
+          49.29715028348807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Halle des sports Salengro",
+        "adresse": "Rue de Verdun, Creil",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_long": "Creil Leo-Lagrange",
+        "nom_court": "Creil LL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4753355979919434,
+          49.254879332601895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase du collège Marcel Pagnol",
+        "adresse": "Route de Macquelines, Betz",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_court": "EPEV LTLJ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.949008345603943,
+          49.159453038476364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle St Georges",
+        "adresse": "Rue de l'Eglise, Juvignies",
+        "info_localisation": "Salle située à côté de la Mairie",
+        "precision_geo": "rue",
+        "nom_court": "ASTBJM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.085782289505005,
+          49.51966449935774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Cassarin Grand",
+        "adresse": "Goincourt",
+        "precision_geo": "commune",
+        "nom_court": "Goincourt SL",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0369338989257812,
+          49.42546255723906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "info_localisation": "",
+        "salle": "Gymnase Charles de Gaulle",
+        "adresse": "Rue Vaillant Radiologue, Méru",
+        "nom_long": "",
+        "nom_court": "Méruvien PPC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.129969000816345,
+          49.23410156979456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "23 Rue du Castel, Villers-sous-Saint-Leu",
+        "salle": "Salle Polyvalente",
+        "precision_geo": "adresse",
+        "nom_long": "Villers-sous-Saint-Leu",
+        "info_localisation": "",
+        "nom_court": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3987317085266113,
+          49.21412804927196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_long": "Association de Tennis de Table de Saintines",
+        "precision_geo": "adresse",
+        "salle": "Salle des sports",
+        "adresse": "Rue de château, Saintines",
+        "info_localisation": "",
+        "nom_court": "Saintines ATT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7690267562866206,
+          49.30732237930736
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle communale",
+        "adresse": "Rue de la place, Vignemont",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "info_localisation": "",
+        "nom_court": "Vignemont ALAE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7758771181106567,
+          49.50035016511952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "salle": "Salle Bernard Kindraich",
+        "info_localisation": "",
+        "adresse": "10 Rue Hector Berlioz, Crépy-en-Valois",
+        "nom_long": "",
+        "nom_court": "Crépy-en-Valois US"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.883460521697998,
+          49.22491986811309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_long": "Association sportive des Ponts et Chaussées de l'Oise - Section tennis de table de l'ASCEE 60",
+        "precision_geo": "adresse",
+        "salle": "",
+        "adresse": "9 Rue du Franc-Marché, Beauvais",
+        "info_localisation": "",
+        "nom_court": "ASPC Oise"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0852243900299072,
+          49.437491893909375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "adresse": "11 Allée Geaorges Bizet, Nogent-sur-Oise",
+        "salle": "Gymnase des Coteaux",
+        "info_localisation": "Dans le groupe scolaire Les Coteaux",
+        "nom_long": "Zup jeunes Nogent-sur-Oise",
+        "nom_court": "ZUP NOGENT OISE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.459038496017456,
+          49.27038778792654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe Henri Salvador",
+        "adresse": "Rue Victor Grignard, Villers-Saint-Paul",
+        "precision_geo": "rue",
+        "nom_long": "US Villers-Saint-Paul section Tennis de Table",
+        "nom_court": "USVSP Tennis de Table"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.501116991043091,
+          49.28583538346307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_localisation": "Au rez-de-chaussée",
+        "precision_geo": "adresse",
+        "nom_long": "Club de Tennis de Table de Choisy-au-Bac",
+        "nom_court": "CTTCB",
+        "adresse": "Chemin du Maubon, Choisy-au-Bac",
+        "salle": "Complexe sportif"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8760039806365962,
+          49.443903078595135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_court": "TT Beauvais",
+        "precision_geo": "adresse",
+        "salle": "Gymnase Corot",
+        "adresse": "10 Rue Louis Roger, Beauvais",
+        "info_localisation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.079516649246216,
+          49.41737040156138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "rue",
+        "adresse": "Rue de la Libération, Ansauvillers",
+        "nom_long": "Tennis de table Ansauvillers",
+        "nom_court": "",
+        "salle": "Salle des sports"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3822736740112305,
+          49.56211875561997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Colette Besson",
+        "adresse": "Place Camille Sellier, Clermont",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Entente Pongiste du Clermontois",
+        "nom_court": "Clermont EP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4131029844284058,
+          49.383930318252304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "commentaire": "",
+        "nom_court": "ACLES Saint-Just-en-Chaussée",
+        "nom_long": "Association Culture, Loisirs et Sports de Saint-Just-en-Chaussée",
+        "precision_geo": "rue",
+        "info_localisation": "Dans école Bogaert",
+        "adresse": "Rue de Paris, Saint-Just-en-Chaussée",
+        "salle": "Salle Martine Dubezak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.434920072555542,
+          49.50483023727675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe Pascal Grousset",
+        "adresse": "Avenue de la Commune de Paris, Saint-Leu-d'Esserent",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_long": "Entente Saint-Maximin / Saint-Leu Tennis de Table",
+        "nom_court": "",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.405726909637451,
+          49.21869033294502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase municipal",
+        "adresse": "Rue des Saulieu, Gouvieux",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_long": "Club de Gouvieux Lamorlaye Sud Oise Tennis de Table",
+        "nom_court": "CGL SO TT",
+        "commentaire": "Le nom de la rue diverge en fonction des sources : rue Saulieu, rue de Saulieu, rue des Saulieu, place de Numbrecht"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.40874707698822,
+          49.1896309895342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Polyvalente Bertinval",
+        "adresse": "Chaussée Bertinval, Lamorlaye",
+        "info_localisation": "",
+        "precision_geo": "rue",
+        "nom_long": "Club de Gouvieux Lamorlaye Sud Oise T",
+        "nom_court": "CGL SO TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.429169416427612,
+          49.1514188513106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase du Collège de Froissy",
+        "adresse": "Rue des cayenneurs, Froissy",
+        "precision_geo": "commune",
+        "nom_long": "",
+        "nom_court": "Noyers-Saint-Martin ATTAN",
+        "info_localisation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2239160537719727,
+          49.56402547686553
+        ]
+      }
+    }
+  ]
+}
