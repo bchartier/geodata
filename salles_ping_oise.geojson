@@ -245,7 +245,7 @@
     {
       "type": "Feature",
       "properties": {
-        "salle": "Salle communale",
+        "salle": "Salle Marcel Bertin",
         "adresse": "Rue de la place, Vignemont",
         "precision_geo": "adresse",
         "nom_long": "",
@@ -352,11 +352,12 @@
     {
       "type": "Feature",
       "properties": {
-        "nom_court": "TT Beauvais",
+        "nom_court": "Beauvais TT",
         "precision_geo": "adresse",
         "salle": "Gymnase Corot",
         "adresse": "10 Rue Louis Roger, Beauvais",
-        "info_localisation": ""
+        "info_localisation": "",
+        "nom_long": "TT Beauvais"
       },
       "geometry": {
         "type": "Point",
@@ -491,6 +492,187 @@
         "coordinates": [
           2.2239160537719727,
           49.56402547686553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Place du Général de Gaulle, Coudun",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "SL Coudun",
+        "nom_court": "Coudun SL",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8112393617630005,
+          49.46319436127726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "rue",
+        "adresse": "Rue d'Alençon, Chantilly",
+        "info_localisation": "",
+        "salle": "Ecole du Bois Saint Denis",
+        "nom_long": "Groupe athlétique et sportif de Chantilly",
+        "nom_court": "Chantilly GAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4568498134613037,
+          49.17789165600513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_court": "Wavignies-Breteuil",
+        "nom_long": "AAE Wavignies-Breteuil",
+        "precision_geo": "adresse",
+        "info_localisation": "A côté de la Piscine du collège",
+        "adresse": "25 bis rue du Général Leclerc, Breteuil",
+        "salle": "Annexe du Sivom"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3006218671798706,
+          49.63493179333186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Halle des Sports",
+        "info_localisation": "Près de la piscine",
+        "adresse": "Rue Pierre Francastel",
+        "precision_geo": "rue",
+        "nom_long": "",
+        "nom_court": "Formerie MRBF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7241990566253662,
+          49.64819831777537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "info_localisation": "",
+        "salle": "Mille Club",
+        "adresse": "Rue Marcel Dassault, Feuquières",
+        "precision_geo": "rue",
+        "nom_long": "",
+        "nom_court": "Feuquières AP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8428277969360352,
+          49.64699999786453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_court": "Longueillois TT",
+        "nom_long": "Club Longueillois de Tennis de Table",
+        "precision_geo": "rue",
+        "salle": "Salle des Sports",
+        "adresse": "Rue Saint Martin, Longueil-Sainte-Marie",
+        "info_localisation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.713692784309387,
+          49.35603046231748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Rue du moulin, Godenvillers",
+        "info_localisation": "",
+        "salle": "Salle polyvalente",
+        "precision_geo": "rue",
+        "nom_long": "",
+        "nom_court": "Godenvillers AS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5511348247528076,
+          49.58966851079861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase du Courtil Muret",
+        "adresse": "Rue Alexandre Dumas, Thourotte",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Tennis de table Thourotte",
+        "nom_court": "Thourotte TT",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.873450517654419,
+          49.479280314823086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Rue de Faÿ, Agnetz",
+        "salle": "Gymnase du Parc",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "AGNETZ ASTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.388753890991211,
+          49.38052882970075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "salle": "Gymnase intercommunal",
+        "adresse": "Rue de l'Ile de France, Tillé",
+        "info_localisation": "",
+        "nom_court": "Beauvais Nord TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.106231451034546,
+          49.46141619848206
         ]
       }
     }
