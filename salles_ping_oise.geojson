@@ -666,13 +666,313 @@
         "salle": "Gymnase intercommunal",
         "adresse": "Rue de l'Ile de France, Tillé",
         "info_localisation": "",
-        "nom_court": "Beauvais Nord TT"
+        "nom_court": "Beauvais Nord TT",
+        "nom_long": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.106231451034546,
           49.46141619848206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Jean Bouin",
+        "adresse": "Avenue Jean Bouin, Noyon",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Tennis de table du Noyonnais",
+        "nom_court": "Noyonnais TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.993752956390381,
+          49.576886940870516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Guy Lejeune",
+        "adresse": "Avenue Louis Aragon, Liancourt",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Liancourt TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4591726064682007,
+          49.32928596173163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle SDBA",
+        "adresse": "16 rue Robert Gerlin, Brenouille",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Brenouille ATT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5422942638397217,
+          49.304671120618984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe sportif François Louvet",
+        "nom_long": "",
+        "nom_court": "Venette Margny SLTT",
+        "precision_geo": "adresse",
+        "adresse": "Rue des martyrs, Venette",
+        "info_localisation": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8044426441192627,
+          49.418504570191516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "nom_court": "Venette Margny SLTT",
+        "adresse": "194 rue Louis Gracin, Margny-lès-Compiègne",
+        "info_localisation": "",
+        "salle": "Salle des Sports Aimé Dennel",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8271207213401794,
+          49.428674274075064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Paul Langevin",
+        "adresse": "Rue du 8 Mai 1945, Montataire",
+        "precision_geo": "rue",
+        "nom_long": "Amicale de tennis de table de Montataire",
+        "nom_court": "Montataire ATT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.4247920513153076,
+          49.25885318228167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Place Paul Delafolie, Auneuil",
+        "salle": "Salle polyvalente",
+        "precision_geo": "adresse",
+        "nom_court": "Auneuil + 3P"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.995788812637329,
+          49.36971514217952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Halle de sports Bernard Leduc",
+        "adresse": "Rue du 8 Mai 1945, Sérifontaine",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Sérifontaine TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.764255166053772,
+          49.3602477201031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_court": "Mouy EP USD",
+        "nom_long": "Entente pongiste USMD",
+        "precision_geo": "adresse",
+        "salle": "",
+        "adresse": "51 Boulevard de Surville, Mouy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3164844512939453,
+          49.316487010274656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle de sports Jean Vermeulen",
+        "adresse": "20 bis rue Marcel Carlier, Lacroix-Saint-Ouen",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Berneuil – Lacroix Tennis de Table",
+        "nom_court": "Berneuil – Lacroix TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.797771990299225,
+          49.35639035841236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "1 Rue de la Groseillère, Berneuil-sur-Aisne",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Berneuil – Lacroix Tennis de Table",
+        "nom_court": "Berneuil – Lacroix TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.008808195590973,
+          49.413156299283216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "1 Rue Jean-Jaures, Andeville",
+        "precision_geo": "adresse",
+        "info_localisation": "entrée par la rue du Docteur Nassif",
+        "salle": "Gymnase",
+        "nom_long": "",
+        "nom_court": "Andeville PPC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1648752689361572,
+          49.25866062425491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "commentaire": "Doute sur la localisation précise du bâtiment",
+        "nom_court": "Montchevreuil TT",
+        "nom_long": "AS Montchevreuil TT",
+        "adresse": "8 rue du Mesnil, Fresneaux-Montchevreuil",
+        "salle": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.003803253173828,
+          49.28184620962106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "info_localisation": "",
+        "adresse": "Rue Voltaire, Bailleul-sur-Thérain",
+        "salle": "Gymnase ntercommunali",
+        "nom_court": "Haudivillers Bailleul EP",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2301843762397766,
+          49.38137922391267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "rue",
+        "salle": "Salle polyvalente",
+        "adresse": "Route de Noailles, Ully-Saint-Georges",
+        "nom_long": "Foyer rural d'Ully Saint Geaorges section tennis de table",
+        "nom_court": "Ully Saint Georges FR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2776514291763306,
+          49.28252159244722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "adresse": "Route de Villeneuve, Hénonville",
+        "salle": "Complexe sportif",
+        "info_localisation": "",
+        "nom_court": "Hénonville CO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.055239975452423,
+          49.21131057623298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision_geo": "adresse",
+        "salle": "Salle polyvalente",
+        "adresse": "Avenue Charles Dottin, Estrée-Saint-Denis",
+        "info_localisation": "",
+        "nom_court": "Lieuvillers",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6469433307647705,
+          49.42873533129394
         ]
       }
     }
