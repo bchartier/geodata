@@ -174,7 +174,7 @@
     {
       "type": "Feature",
       "properties": {
-        "salle": "Salle Cassarin Grand",
+        "salle": "Salle Albert Cassarin Grand",
         "adresse": "Goincourt",
         "precision_geo": "commune",
         "nom_court": "Goincourt SL",
@@ -183,8 +183,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.0369338989257812,
-          49.42546255723906
+          2.0380443334579468,
+          49.42522877930965
         ]
       }
     },
