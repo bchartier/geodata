@@ -74,7 +74,7 @@
       "type": "Feature",
       "properties": {
         "salle": "Salle Jean Le Vourch, Foyer rural",
-        "adresse": "18 rue Louis Drouart, Les Ageux",
+        "adresse": "18 Rue Louis Drouart, Les Ageux",
         "info_localisation": "",
         "precision_geo": "adresse",
         "nom_court": "Les Ageux FR"
