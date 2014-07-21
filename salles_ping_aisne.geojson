@@ -1,0 +1,502 @@
+{  
+  "type":"FeatureCollection",
+  "features":[  
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle Moinet",
+        "adresse":"Rue Moinet, Beautor",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Beautor GS"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.341243863105774,
+          49.65209873164064
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle de la place Clichy",
+        "adresse":"Place Clichy, Buire",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Buire TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          4.067379534244537,
+          49.91129160716246
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"ASPTT Soissons",
+        "adresse":"9 Avenue de Reims, Soissons",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Soissons ASPTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.3327895402908325,
+          49.37650191724733
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Gymnase Brise Bêche",
+        "adresse":"Rue du Buisson, Château-Thierry",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Château-Thierry CTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.392801284790039,
+          49.05408782932414
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Complexe sportif Léo Lagrange",
+        "adresse":"Boulevard Géo André, Chauny",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Chauny-Autreville ACTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.229452073574066,
+          49.62617578349136
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "info_localisation":"",
+        "adresse":"18 Rue de Chierry, Estampes-sur-Marne",
+        "salle":"Salle omnisports",
+        "nom_long":"",
+        "nom_court":"Chezy-Charly-Etampes PC"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.4211575984954834,
+          49.034729193041855
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle de Sports",
+        "adresse":"Rue de Chaury, Condé-en-Brie",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Condé-en-Brie UTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.554377555847168,
+          49.00562344324437
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"École primaire",
+        "adresse":"Rue Jules Ferry, Courmelles",
+        "info_localisation":"Préau de l'école",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Courmelles TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.3109670877456665,
+          49.34634372583965
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Complexe sportif",
+        "adresse":"17 Rue des paturelles, Crépy",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Crépy TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.514503836631775,
+          49.61350110414349
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "info_localisation":"",
+        "adresse":"1 Rue Pierre Ledoux, Crouy",
+        "salle":"Salle des sports",
+        "nom_long":"",
+        "nom_court":"Crouy ASTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.3600166440010066,
+          49.40396952392295
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle du club Léo Lagrange",
+        "adresse":"12 Rue Georges Déviolaine, Cuffies",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Cuffies LL"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.32611083984375,
+          49.398263573396896
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Complexe sportif Pawlowski",
+        "adresse":"Rue Léo Lagrange, Fresnoy-le-Grand",
+        "info_localisation":"Salle AM2T",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Fresnoy-le-Grand Vermandois TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.421339988708496,
+          49.948812302513936
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "adresse":"Rue du moulin, Grignicourt",
+        "salle":"Gymnase du collège",
+        "info_localisation":"",
+        "nom_long":"",
+        "nom_court":"Guignicourt CTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.9643505215644836,
+          49.440235411497866
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Gymnase des coutures",
+        "adresse":"Avenues des Lilas, Guise",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Guise TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.638695478439331,
+          49.90362710195659
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle Jules Decamp",
+        "adresse":"Rue Jean de la Fontaine, Hirson",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Hirson-Coingt TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          4.077228605747223,
+          49.92345005387837
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "nom_court":"Holnon-Itancourt TT",
+        "salle":"Centre culturel Charles Poette",
+        "adresse":"Place du Général de Gaulle, Holnon",
+        "info_localisation":""
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.213053047657013,
+          49.86141337685503
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"",
+        "adresse":"Rue de l'armistice, La Capelle",
+        "precision_geo":"adresse",
+        "nom_court":"La Capelle TT",
+        "nom_long":""
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.9175218343734737,
+          49.97354364284039
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "adresse":"13 Place Jacques Prévert, Laon",
+        "salle":"Centre Prévert",
+        "precision_geo":"adresse",
+        "nom_court":"Laon ARVIF TT",
+        "nom_long":""
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.620671033859253,
+          49.55204808402209
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Gymnase Cité du Nord",
+        "adresse":"Rue Joseph Cavrois, Laon",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Laon ASPTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.62622857093811,
+          49.57445371579291
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Pinon-Anizy TT",
+        "salle":"Salle polyvalente",
+        "adresse":"Route de Coucy, Anizy-le-Château"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.439638018608093,
+          49.50399417407228
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Gymnase de Rozoy-sur-Serre",
+        "adresse":"Rue du Point du Jour, Rozoy-sur-Serre",
+        "info_localisation":"En face du collège",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Rozoy Thiérache TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          4.134206771850586,
+          49.70725279584092
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle polyvalente",
+        "adresse":"Rue de la Gare, Sains-Richaumont",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Sains-Richaumont TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.7025266885757446,
+          49.82547024153805
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Gymnase municipal",
+        "adresse":"Rue du vieux moulin, Sissonne",
+        "info_localisation":"À côté du collège",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Sissonnais CP"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.8977164030075073,
+          49.56623481437669
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"rue",
+        "salle":"Centre d'animation municipal espace multiloisirs Pierre Arnould",
+        "adresse":"1 rue de Phalsbourg, Saint-Quentin",
+        "info_localisation":"2e étage, salle 101",
+        "nom_court":"St Quentin / Harly ASPTT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.2780778408050537,
+          49.85427184970426
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":" Palais des sports Pierre Ratte",
+        "adresse":"Champs Élysées, Avenue de Remicourt, Saint-Quentin",
+        "info_localisation":"",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"St Quentin TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.2938867807388306,
+          49.849038670948254
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Salle des sports SNCF",
+        "adresse":"Rue de l'Yser, Quessy-Cité, Tergnier",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Tergnier ESC"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.2864195108413696,
+          49.66615048045498
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "precision_geo":"adresse",
+        "salle":"Centre sportif Lallier",
+        "adresse":"Impasse de l'oiselet, Venizel",
+        "info_localisation":"",
+        "nom_court":"Venizel TT",
+        "nom_long":""
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.4031304717063904,
+          49.36582708205001
+        ]
+      }
+    },
+    {  
+      "type":"Feature",
+      "properties":{  
+        "salle":"Complexe sportif Jacques Gatineau",
+        "adresse":"Avenue de Compiègne, Villers-Cotterêts",
+        "precision_geo":"adresse",
+        "nom_long":"",
+        "nom_court":"Villers-Cotterêts TT"
+      },
+      "geometry":{  
+        "type":"Point",
+        "coordinates":[  
+          3.0850929021835327,
+          49.25870788856741
+        ]
+      }
+    }
+  ]
+}
