@@ -5,7 +5,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle Moinet",
-        "adresse":"Rue Moinet, Beautor",
+        "adresse":"Rue Moinet",
+        "code_postal": "",
+        "commune": "Beautor",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -23,7 +25,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle de la place Clichy",
-        "adresse":"Place Clichy, Buire",
+        "adresse":"Place Clichy",
+        "code_postal": "",
+        "commune": "Buire",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -41,7 +45,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"ASPTT Soissons",
-        "adresse":"9 Avenue de Reims, Soissons",
+        "adresse":"9 Avenue de Reims",
+        "code_postal": "",
+        "commune": "Soissons",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -59,7 +65,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Gymnase Brise Bêche",
-        "adresse":"Rue du Buisson, Château-Thierry",
+        "adresse":"Rue du Buisson",
+        "code_postal": "",
+        "commune": "Château-Thierry",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -77,7 +85,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Complexe sportif Léo Lagrange",
-        "adresse":"Boulevard Géo André, Chauny",
+        "adresse":"Boulevard Géo André",
+        "code_postal": "",
+        "commune": "Chauny",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -96,7 +106,9 @@
       "properties":{  
         "precision_geo":"adresse",
         "info_localisation":"",
-        "adresse":"18 Rue de Chierry, Estampes-sur-Marne",
+        "adresse":"18 Rue de Chierry",
+        "code_postal": "",
+        "commune": "Estampes-sur-Marne",
         "salle":"Salle omnisports",
         "nom_long":"",
         "nom_court":"Chezy-Charly-Etampes PC"
@@ -113,7 +125,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle de Sports",
-        "adresse":"Rue de Chaury, Condé-en-Brie",
+        "adresse":"Rue de Chaury",
+        "code_postal": "",
+        "commune": "Condé-en-Brie",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -131,7 +145,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"École primaire",
-        "adresse":"Rue Jules Ferry, Courmelles",
+        "adresse":"Rue Jules Ferry",
+        "code_postal": "",
+        "commune": "Courmelles",
         "info_localisation":"Préau de l'école",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -149,7 +165,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Complexe sportif",
-        "adresse":"17 Rue des paturelles, Crépy",
+        "adresse":"17 Rue des paturelles",
+        "code_postal": "",
+        "commune": "Crépy",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -168,7 +186,9 @@
       "properties":{  
         "precision_geo":"adresse",
         "info_localisation":"",
-        "adresse":"1 Rue Pierre Ledoux, Crouy",
+        "adresse":"1 Rue Pierre Ledoux",
+        "code_postal": "",
+        "commune": "Crouy",
         "salle":"Salle des sports",
         "nom_long":"",
         "nom_court":"Crouy ASTT"
@@ -185,7 +205,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle du club Léo Lagrange",
-        "adresse":"12 Rue Georges Déviolaine, Cuffies",
+        "adresse":"12 Rue Georges Déviolaine",
+        "code_postal": "",
+        "commune": "Cuffies",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -203,7 +225,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Complexe sportif Pawlowski",
-        "adresse":"Rue Léo Lagrange, Fresnoy-le-Grand",
+        "adresse":"Rue Léo Lagrange",
+        "code_postal": "",
+        "commune": "Fresnoy-le-Grand",
         "info_localisation":"Salle AM2T",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -221,7 +245,9 @@
       "type":"Feature",
       "properties":{  
         "precision_geo":"adresse",
-        "adresse":"Rue du moulin, Grignicourt",
+        "adresse":"Rue du moulin",
+        "code_postal": "",
+        "commune": "Grignicourt",
         "salle":"Gymnase du collège",
         "info_localisation":"",
         "nom_long":"",
@@ -239,7 +265,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Gymnase des coutures",
-        "adresse":"Avenues des Lilas, Guise",
+        "adresse":"Avenues des Lilas",
+        "code_postal": "",
+        "commune": "Guise",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -257,7 +285,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle Jules Decamp",
-        "adresse":"Rue Jean de la Fontaine, Hirson",
+        "adresse":"Rue Jean de la Fontaine",
+        "code_postal": "",
+        "commune": "Hirson",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -277,7 +307,9 @@
         "precision_geo":"adresse",
         "nom_court":"Holnon-Itancourt TT",
         "salle":"Centre culturel Charles Poette",
-        "adresse":"Place du Général de Gaulle, Holnon",
+        "adresse":"Place du Général de Gaulle",
+        "code_postal": "",
+        "commune": "Holnon",
         "info_localisation":""
       },
       "geometry":{  
@@ -292,7 +324,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"",
-        "adresse":"Rue de l'armistice, La Capelle",
+        "adresse":"Rue de l'armistice",
+        "code_postal": "",
+        "commune": "La Capelle",
         "precision_geo":"adresse",
         "nom_court":"La Capelle TT",
         "nom_long":""
@@ -308,7 +342,9 @@
     {  
       "type":"Feature",
       "properties":{  
-        "adresse":"13 Place Jacques Prévert, Laon",
+        "adresse":"13 Place Jacques Prévert",
+        "code_postal": "",
+        "commune": "Laon",
         "salle":"Centre Prévert",
         "precision_geo":"adresse",
         "nom_court":"Laon ARVIF TT",
@@ -326,7 +362,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Gymnase Cité du Nord",
-        "adresse":"Rue Joseph Cavrois, Laon",
+        "adresse":"Rue Joseph Cavrois",
+        "code_postal": "",
+        "commune": "Laon",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -347,7 +385,9 @@
         "nom_long":"",
         "nom_court":"Pinon-Anizy TT",
         "salle":"Salle polyvalente",
-        "adresse":"Route de Coucy, Anizy-le-Château"
+        "adresse":"Route de Coucy",
+        "code_postal": "",
+        "commune": "Anizy-le-Château"
       },
       "geometry":{  
         "type":"Point",
@@ -361,7 +401,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Gymnase de Rozoy-sur-Serre",
-        "adresse":"Rue du Point du Jour, Rozoy-sur-Serre",
+        "adresse":"Rue du Point du Jour",
+        "code_postal": "",
+        "commune": "Rozoy-sur-Serre",
         "info_localisation":"En face du collège",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -379,7 +421,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle polyvalente",
-        "adresse":"Rue de la Gare, Sains-Richaumont",
+        "adresse":"Rue de la Gare",
+        "code_postal": "",
+        "commune": "Sains-Richaumont",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -397,7 +441,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Gymnase municipal",
-        "adresse":"Rue du vieux moulin, Sissonne",
+        "adresse":"Rue du vieux moulin",
+        "code_postal": "",
+        "commune": "Sissonne",
         "info_localisation":"À côté du collège",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -416,7 +462,9 @@
       "properties":{  
         "precision_geo":"rue",
         "salle":"Centre d'animation municipal espace multiloisirs Pierre Arnould",
-        "adresse":"1 rue de Phalsbourg, Saint-Quentin",
+        "adresse":"1 rue de Phalsbourg",
+        "code_postal": "",
+        "commune": "Saint-Quentin",
         "info_localisation":"2e étage, salle 101",
         "nom_court":"St Quentin / Harly ASPTT"
       },
@@ -432,7 +480,9 @@
       "type":"Feature",
       "properties":{  
         "salle":" Palais des sports Pierre Ratte",
-        "adresse":"Champs Élysées, Avenue de Remicourt, Saint-Quentin",
+        "adresse":"Champs Élysées, Avenue de Remicourt",
+        "code_postal": "",
+        "commune": "Saint-Quentin",
         "info_localisation":"",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -450,7 +500,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Salle des sports SNCF",
-        "adresse":"Rue de l'Yser, Quessy-Cité, Tergnier",
+        "adresse":"Rue de l'Yser, Quessy-Cité",
+        "code_postal": "",
+        "commune": "Tergnier",
         "precision_geo":"adresse",
         "nom_long":"",
         "nom_court":"Tergnier ESC"
@@ -468,7 +520,9 @@
       "properties":{  
         "precision_geo":"adresse",
         "salle":"Centre sportif Lallier",
-        "adresse":"Impasse de l'oiselet, Venizel",
+        "adresse":"Impasse de l'oiselet",
+        "code_postal": "",
+        "commune": "Venizel",
         "info_localisation":"",
         "nom_court":"Venizel TT",
         "nom_long":""
@@ -485,7 +539,9 @@
       "type":"Feature",
       "properties":{  
         "salle":"Complexe sportif Jacques Gatineau",
-        "adresse":"Avenue de Compiègne, Villers-Cotterêts",
+        "adresse":"Avenue de Compiègne",
+        "code_postal": "",
+        "commune": "Villers-Cotterêts",
         "precision_geo":"adresse",
         "nom_long":"",
         "nom_court":"Villers-Cotterêts TT"
