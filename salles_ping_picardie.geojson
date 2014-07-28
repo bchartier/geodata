@@ -6,7 +6,7 @@
       "properties": {
         "salle": "Gymnase Ferdinand Bac",
         "adresse": "Rue Othenin, Compiègne",
-        "code_postal": "",
+        "code_postal": "60200",
         "commune": "Compiègne",
         "info_localisation": "Salle localisée au sous-sol",
         "precision_geo": "adresse",
@@ -26,7 +26,7 @@
       "properties": {
         "salle": "Complexe sportif",
         "adresse": "Rue Yves Carlier",
-        "code_postal": "",
+        "code_postal": "60300",
         "commune": "Senlis",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -46,7 +46,7 @@
       "properties": {
         "salle": "",
         "adresse": "Place Henry Barbusse",
-        "code_postal": "",
+        "code_postal": "60250",
         "commune": "Angy",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -65,7 +65,7 @@
       "properties": {
         "salle": "Gymnase Jean Moulin",
         "adresse": "Impasse Saint-Jean",
-        "code_postal": "",
+        "code_postal": "60180",
         "commune": "Nogent-sur-Oise",
         "precision_geo": "rue",
         "nom_court": "Nogent AJM"
@@ -83,7 +83,7 @@
       "properties": {
         "salle": "Salle Jean Le Vourch, Foyer rural",
         "adresse": "18 Rue Louis Drouart",
-        "code_postal": "",
+        "code_postal": "60700",
         "commune": "Les Ageux",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -102,7 +102,7 @@
       "properties": {
         "salle": "Salle René Martin",
         "adresse": ", 114 Rue Voltaire",
-        "code_postal": "",
+        "code_postal": "60170",
         "commune": "Ribécourt-Dreslincourt",
         "precision_geo": "adresse",
         "nom_court": "Ribécourt US"
@@ -120,7 +120,7 @@
       "properties": {
         "salle": "Salle Raymond Devos",
         "adresse": "Rue de Mello",
-        "code_postal": "",
+        "code_postal": "60290",
         "commune": "Laigneville",
         "precision_geo": "rue",
         "nom_court": "Monchy-Laigneville EP"
@@ -138,7 +138,7 @@
       "properties": {
         "salle": "Halle des sports Salengro",
         "adresse": "Rue de Verdun",
-        "code_postal": "",
+        "code_postal": "60100",
         "commune": "Creil",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -158,7 +158,7 @@
       "properties": {
         "salle": "Gymnase du collège Marcel Pagnol",
         "adresse": "Route de Macquelines",
-        "code_postal": "",
+        "code_postal": "60620",
         "commune": "Betz",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -177,7 +177,7 @@
       "properties": {
         "salle": "Salle St Georges",
         "adresse": "Rue de l'Eglise",
-        "code_postal": "",
+        "code_postal": "60112",
         "commune": "Juvignies",
         "info_localisation": "Salle située à côté de la Mairie",
         "precision_geo": "rue",
@@ -196,7 +196,7 @@
       "properties": {
         "salle": "Salle Albert Cassarin Grand",
         "adresse": "",
-        "code_postal": "",
+        "code_postal": "60000",
         "commune": "Goincourt",
         "precision_geo": "commune",
         "nom_court": "Goincourt SL",
@@ -215,7 +215,7 @@
       "properties": {
         "salle": "Gymnase Charles de Gaulle",
         "adresse": "Rue Vaillant Radiologue",
-        "code_postal": "",
+        "code_postal": "60110",
         "commune": "Méru",
         "precision_geo": "adresse",
         "info_localisation": "",
@@ -235,7 +235,7 @@
       "properties": {
         "salle": "Salle Polyvalente",
         "adresse": "23 Rue du Castel",
-        "code_postal": "",
+        "code_postal": "60340",
         "commune": "Villers-sous-Saint-Leu",
         "precision_geo": "adresse",
         "nom_long": "Villers-sous-Saint-Leu",
@@ -255,7 +255,7 @@
       "properties": {
         "salle": "Salle des sports",
         "adresse": "Rue de château",
-        "code_postal": "",
+        "code_postal": "60410",
         "commune": "Saintines",
         "precision_geo": "adresse",
         "info_localisation": "",
@@ -275,7 +275,7 @@
       "properties": {
         "salle": "Salle Marcel Bertin",
         "adresse": "Rue de la place",
-        "code_postal": "",
+        "code_postal": "60162",
         "commune": "Vignemont",
         "precision_geo": "adresse",
         "nom_long": "",
@@ -295,7 +295,7 @@
       "properties": {
         "salle": "Salle Bernard Kindraich",
         "adresse": "10 Rue Hector Berlioz",
-        "code_postal": "",
+        "code_postal": "60800",
         "commune": "Crépy-en-Valois",
         "precision_geo": "adresse",
         "info_localisation": "",
@@ -315,7 +315,7 @@
       "properties": {
         "salle": "",
         "adresse": "9 Rue du Franc-Marché",
-        "code_postal": "",
+        "code_postal": "60000",
         "commune": "Beauvais",
         "precision_geo": "adresse",
         "info_localisation": "",
@@ -335,7 +335,7 @@
       "properties": {
         "precision_geo": "adresse",
         "adresse": "11 Allée Geaorges Bizet",
-        "code_postal": "",
+        "code_postal": "60180",
         "commune": "Nogent-sur-Oise",
         "salle": "Gymnase des Coteaux",
         "info_localisation": "Dans le groupe scolaire Les Coteaux",
@@ -355,7 +355,7 @@
       "properties": {
         "salle": "Complexe Henri Salvador",
         "adresse": "Rue Victor Grignard",
-        "code_postal": "",
+        "code_postal": "60870",
         "commune": "Villers-Saint-Paul",
         "precision_geo": "rue",
         "nom_long": "US Villers-Saint-Paul section Tennis de Table",
@@ -377,7 +377,7 @@
         "nom_long": "Club de Tennis de Table de Choisy-au-Bac",
         "nom_court": "CTTCB",
         "adresse": "Chemin du Maubon",
-        "code_postal": "",
+        "code_postal": "60750",
         "commune": "Choisy-au-Bac",
         "salle": "Complexe sportif"
       },
@@ -396,7 +396,7 @@
         "precision_geo": "adresse",
         "salle": "Gymnase Corot",
         "adresse": "10 Rue Louis Roger",
-        "code_postal": "",
+        "code_postal": "60000",
         "commune": "Beauvais",
         "info_localisation": "",
         "nom_long": "TT Beauvais"
@@ -414,7 +414,7 @@
       "properties": {
         "precision_geo": "rue",
         "adresse": "Rue de la Libération",
-        "code_postal": "",
+        "code_postal": "60120",
         "commune": "Ansauvillers",
         "nom_long": "Tennis de table Ansauvillers",
         "nom_court": "",
@@ -433,7 +433,7 @@
       "properties": {
         "salle": "Salle Colette Besson",
         "adresse": "Place Camille Sellier",
-        "code_postal": "",
+        "code_postal": "60600",
         "commune": "Clermont",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -457,7 +457,7 @@
         "precision_geo": "rue",
         "info_localisation": "Dans école Bogaert",
         "adresse": "Rue de Paris",
-        "code_postal": "",
+        "code_postal": "60130",
         "commune": "Saint-Just-en-Chaussée",
         "salle": "Salle Martine Dubezak"
       },
@@ -474,7 +474,7 @@
       "properties": {
         "salle": "Complexe Pascal Grousset",
         "adresse": "Avenue de la Commune de Paris",
-        "code_postal": "",
+        "code_postal": "60340",
         "commune": "Saint-Leu-d'Esserent",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -495,7 +495,7 @@
       "properties": {
         "salle": "Gymnase municipal",
         "adresse": "Rue des Saulieu",
-        "code_postal": "",
+        "code_postal": "60270",
         "commune": "Gouvieux",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -516,7 +516,7 @@
       "properties": {
         "salle": "Salle Polyvalente Bertinval",
         "adresse": "Chaussée Bertinval",
-        "code_postal": "",
+        "code_postal": "60260",
         "commune": "Lamorlaye",
         "info_localisation": "",
         "precision_geo": "rue",
@@ -536,7 +536,7 @@
       "properties": {
         "salle": "Gymnase du Collège de Froissy",
         "adresse": "Rue des cayenneurs",
-        "code_postal": "",
+        "code_postal": "60480",
         "commune": "Froissy",
         "precision_geo": "commune",
         "nom_long": "",
@@ -556,7 +556,7 @@
       "properties": {
         "salle": "Salle polyvalente",
         "adresse": "Place du Général de Gaulle",
-        "code_postal": "",
+        "code_postal": "60150",
         "commune": "Coudun",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -577,7 +577,7 @@
       "properties": {
         "precision_geo": "rue",
         "adresse": "Rue d'Alençon",
-        "code_postal": "",
+        "code_postal": "60500",
         "commune": "Chantilly",
         "info_localisation": "",
         "salle": "Ecole du Bois Saint Denis",
@@ -600,7 +600,7 @@
         "precision_geo": "adresse",
         "info_localisation": "A côté de la Piscine du collège",
         "adresse": "25 bis rue du Général Leclerc",
-        "code_postal": "",
+        "code_postal": "60120",
         "commune": "Breteuil",
         "salle": "Annexe du Sivom"
       },
@@ -618,7 +618,7 @@
         "salle": "Halle des Sports",
         "info_localisation": "Près de la piscine",
         "adresse": "Rue Pierre Francastel",
-        "code_postal": "",
+        "code_postal": "60220",
         "commune": "Formerie",
         "precision_geo": "rue",
         "nom_long": "",
@@ -638,7 +638,7 @@
         "info_localisation": "",
         "salle": "Mille Club",
         "adresse": "Rue Marcel Dassault",
-        "code_postal": "",
+        "code_postal": "60960",
         "commune": "Feuquières",
         "precision_geo": "rue",
         "nom_long": "",
@@ -660,7 +660,7 @@
         "precision_geo": "rue",
         "salle": "Salle des Sports",
         "adresse": "Rue Saint Martin",
-        "code_postal": "",
+        "code_postal": "60126",
         "commune": "Longueil-Sainte-Marie",
         "info_localisation": ""
       },
@@ -676,7 +676,7 @@
       "type": "Feature",
       "properties": {
         "adresse": "Rue du moulin",
-        "code_postal": "",
+        "code_postal": "60420",
         "commune": "Godenvillers",
         "info_localisation": "",
         "salle": "Salle polyvalente",
@@ -697,7 +697,7 @@
       "properties": {
         "salle": "Gymnase du Courtil Muret",
         "adresse": "Rue Alexandre Dumas",
-        "code_postal": "",
+        "code_postal": "60150",
         "commune": "Thourotte",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -717,7 +717,7 @@
       "type": "Feature",
       "properties": {
         "adresse": "Rue de Faÿ",
-        "code_postal": "",
+        "code_postal": "60600",
         "commune": "Agnetz",
         "salle": "Gymnase du Parc",
         "info_localisation": "",
@@ -739,7 +739,7 @@
         "precision_geo": "adresse",
         "salle": "Gymnase intercommunal",
         "adresse": "Rue de l'Ile de France",
-        "code_postal": "",
+        "code_postal": "60000",
         "commune": "Tillé",
         "info_localisation": "",
         "nom_court": "Beauvais Nord TT",
@@ -758,7 +758,7 @@
       "properties": {
         "salle": "Gymnase Jean Bouin",
         "adresse": "Avenue Jean Bouin",
-        "code_postal": "",
+        "code_postal": "60400",
         "commune": "Noyon",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -778,7 +778,7 @@
       "properties": {
         "salle": "Gymnase Guy Lejeune",
         "adresse": "Avenue Louis Aragon",
-        "code_postal": "",
+        "code_postal": "60140",
         "commune": "Liancourt",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -798,7 +798,7 @@
       "properties": {
         "salle": "Salle SDBA",
         "adresse": "16 rue Robert Gerlin",
-        "code_postal": "",
+        "code_postal": "60870",
         "commune": "Brenouille",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -821,7 +821,7 @@
         "nom_court": "Venette Margny SLTT",
         "precision_geo": "adresse",
         "adresse": "Rue des martyrs",
-        "code_postal": "",
+        "code_postal": "60280",
         "commune": "Venette",
         "info_localisation": ""
       },
@@ -839,7 +839,7 @@
         "precision_geo": "adresse",
         "nom_court": "Venette Margny SLTT",
         "adresse": "194 rue Louis Gracin",
-        "code_postal": "",
+        "code_postal": "60280",
         "commune": "Margny-lès-Compiègne",
         "info_localisation": "",
         "salle": "Salle des Sports Aimé Dennel",
@@ -858,7 +858,7 @@
       "properties": {
         "salle": "Salle Paul Langevin",
         "adresse": "Rue du 8 Mai 1945",
-        "code_postal": "",
+        "code_postal": "60160",
         "commune": "Montataire",
         "precision_geo": "rue",
         "nom_long": "Amicale de tennis de table de Montataire",
@@ -876,7 +876,7 @@
       "type": "Feature",
       "properties": {
         "adresse": "Place Paul Delafolie",
-        "code_postal": "",
+        "code_postal": "60390",
         "commune": "Auneuil",
         "salle": "Salle polyvalente",
         "precision_geo": "adresse",
@@ -895,7 +895,7 @@
       "properties": {
         "salle": "Halle de sports Bernard Leduc",
         "adresse": "Rue du 8 Mai 1945",
-        "code_postal": "",
+        "code_postal": "60590",
         "commune": "Sérifontaine",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -918,7 +918,7 @@
         "precision_geo": "adresse",
         "salle": "",
         "adresse": "51 Boulevard de Surville",
-        "code_postal": "",
+        "code_postal": "60250",
         "commune": "Mouy"
       },
       "geometry": {
@@ -934,7 +934,7 @@
       "properties": {
         "salle": "Salle de sports Jean Vermeulen",
         "adresse": "20 bis rue Marcel Carlier",
-        "code_postal": "",
+        "code_postal": "60610",
         "commune": "Lacroix-Saint-Ouen",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -953,7 +953,7 @@
       "type": "Feature",
       "properties": {
         "adresse": "1 Rue de la Groseillère",
-        "code_postal": "",
+        "code_postal": "60350",
         "commune": "Berneuil-sur-Aisne",
         "info_localisation": "",
         "precision_geo": "adresse",
@@ -972,7 +972,7 @@
       "type": "Feature",
       "properties": {
         "adresse": "1 Rue Jean-Jaures",
-        "code_postal": "",
+        "code_postal": "60570",
         "commune": "Andeville",
         "precision_geo": "adresse",
         "info_localisation": "entrée par la rue du Docteur Nassif",
@@ -996,7 +996,7 @@
         "nom_court": "Montchevreuil TT",
         "nom_long": "AS Montchevreuil TT",
         "adresse": "8 rue du Mesnil",
-        "code_postal": "",
+        "code_postal": "60240",
         "commune": "Fresneaux-Montchevreuil",
         "salle": ""
       },
@@ -1014,7 +1014,7 @@
         "precision_geo": "adresse",
         "info_localisation": "",
         "adresse": "Rue Voltaire",
-        "code_postal": "",
+        "code_postal": "60930",
         "commune": "Bailleul-sur-Thérain",
         "salle": "Gymnase ntercommunali",
         "nom_court": "Haudivillers Bailleul EP",
@@ -1034,7 +1034,7 @@
         "precision_geo": "rue",
         "salle": "Salle polyvalente",
         "adresse": "Route de Noailles",
-        "code_postal": "",
+        "code_postal": "60730",
         "commune": "Ully-Saint-Georges",
         "nom_long": "Foyer rural d'Ully Saint Geaorges section tennis de table",
         "nom_court": "Ully Saint Georges FR"
@@ -1052,7 +1052,7 @@
       "properties": {
         "precision_geo": "adresse",
         "adresse": "Route de Villeneuve",
-        "code_postal": "",
+        "code_postal": "60119",
         "commune": "Hénonville",
         "salle": "Complexe sportif",
         "info_localisation": "",
@@ -1072,8 +1072,8 @@
         "precision_geo": "adresse",
         "salle": "Salle polyvalente",
         "adresse": "Avenue Charles Dottin",
-        "code_postal": "",
-        "commune": "Estrée-Saint-Denis",
+        "code_postal": "60190",
+        "commune": "Estrées-Saint-Denis",
         "info_localisation": "",
         "nom_court": "Lieuvillers",
         "nom_long": ""
@@ -1091,7 +1091,7 @@
       "properties":{  
         "salle":"Salle Moinet",
         "adresse":"Rue Moinet",
-        "code_postal": "",
+        "code_postal": "02800",
         "commune": "Beautor",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1111,7 +1111,7 @@
       "properties":{  
         "salle":"Salle de la place Clichy",
         "adresse":"Place Clichy",
-        "code_postal": "",
+        "code_postal": "02500",
         "commune": "Buire",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1131,7 +1131,7 @@
       "properties":{  
         "salle":"ASPTT Soissons",
         "adresse":"9 Avenue de Reims",
-        "code_postal": "",
+        "code_postal": "02200",
         "commune": "Soissons",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1151,7 +1151,7 @@
       "properties":{  
         "salle":"Gymnase Brise Bêche",
         "adresse":"Rue du Buisson",
-        "code_postal": "",
+        "code_postal": "02400",
         "commune": "Château-Thierry",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1171,7 +1171,7 @@
       "properties":{  
         "salle":"Complexe sportif Léo Lagrange",
         "adresse":"Boulevard Géo André",
-        "code_postal": "",
+        "code_postal": "02300",
         "commune": "Chauny",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1192,8 +1192,8 @@
         "precision_geo":"adresse",
         "info_localisation":"",
         "adresse":"18 Rue de Chierry",
-        "code_postal": "",
-        "commune": "Estampes-sur-Marne",
+        "code_postal": "02400",
+        "commune": "Étampes-sur-Marne",
         "salle":"Salle omnisports",
         "nom_long":"",
         "nom_court":"Chezy-Charly-Etampes PC"
@@ -1211,7 +1211,7 @@
       "properties":{  
         "salle":"Salle de Sports",
         "adresse":"Rue de Chaury",
-        "code_postal": "",
+        "code_postal": "02330",
         "commune": "Condé-en-Brie",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1231,7 +1231,7 @@
       "properties":{  
         "salle":"École primaire",
         "adresse":"Rue Jules Ferry",
-        "code_postal": "",
+        "code_postal": "02200",
         "commune": "Courmelles",
         "info_localisation":"Préau de l'école",
         "precision_geo":"adresse",
@@ -1251,7 +1251,7 @@
       "properties":{  
         "salle":"Complexe sportif",
         "adresse":"17 Rue des paturelles",
-        "code_postal": "",
+        "code_postal": "02870",
         "commune": "Crépy",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1272,7 +1272,7 @@
         "precision_geo":"adresse",
         "info_localisation":"",
         "adresse":"1 Rue Pierre Ledoux",
-        "code_postal": "",
+        "code_postal": "02880",
         "commune": "Crouy",
         "salle":"Salle des sports",
         "nom_long":"",
@@ -1291,7 +1291,7 @@
       "properties":{  
         "salle":"Salle du club Léo Lagrange",
         "adresse":"12 Rue Georges Déviolaine",
-        "code_postal": "",
+        "code_postal": "02880",
         "commune": "Cuffies",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1311,7 +1311,7 @@
       "properties":{  
         "salle":"Complexe sportif Pawlowski",
         "adresse":"Rue Léo Lagrange",
-        "code_postal": "",
+        "code_postal": "02230",
         "commune": "Fresnoy-le-Grand",
         "info_localisation":"Salle AM2T",
         "precision_geo":"adresse",
@@ -1331,8 +1331,8 @@
       "properties":{  
         "precision_geo":"adresse",
         "adresse":"Rue du moulin",
-        "code_postal": "",
-        "commune": "Grignicourt",
+        "code_postal": "02190",
+        "commune": "Guignicourt",
         "salle":"Gymnase du collège",
         "info_localisation":"",
         "nom_long":"",
@@ -1351,7 +1351,7 @@
       "properties":{  
         "salle":"Gymnase des coutures",
         "adresse":"Avenues des Lilas",
-        "code_postal": "",
+        "code_postal": "02120",
         "commune": "Guise",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1371,7 +1371,7 @@
       "properties":{  
         "salle":"Salle Jules Decamp",
         "adresse":"Rue Jean de la Fontaine",
-        "code_postal": "",
+        "code_postal": "02500",
         "commune": "Hirson",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1393,7 +1393,7 @@
         "nom_court":"Holnon-Itancourt TT",
         "salle":"Centre culturel Charles Poette",
         "adresse":"Place du Général de Gaulle",
-        "code_postal": "",
+        "code_postal": "02760",
         "commune": "Holnon",
         "info_localisation":""
       },
@@ -1410,7 +1410,7 @@
       "properties":{  
         "salle":"",
         "adresse":"Rue de l'armistice",
-        "code_postal": "",
+        "code_postal": "02260",
         "commune": "La Capelle",
         "precision_geo":"adresse",
         "nom_court":"La Capelle TT",
@@ -1428,7 +1428,7 @@
       "type":"Feature",
       "properties":{  
         "adresse":"13 Place Jacques Prévert",
-        "code_postal": "",
+        "code_postal": "02000",
         "commune": "Laon",
         "salle":"Centre Prévert",
         "precision_geo":"adresse",
@@ -1448,7 +1448,7 @@
       "properties":{  
         "salle":"Gymnase Cité du Nord",
         "adresse":"Rue Joseph Cavrois",
-        "code_postal": "",
+        "code_postal": "02000",
         "commune": "Laon",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1471,7 +1471,7 @@
         "nom_court":"Pinon-Anizy TT",
         "salle":"Salle polyvalente",
         "adresse":"Route de Coucy",
-        "code_postal": "",
+        "code_postal": "02320",
         "commune": "Anizy-le-Château"
       },
       "geometry":{  
@@ -1487,7 +1487,7 @@
       "properties":{  
         "salle":"Gymnase de Rozoy-sur-Serre",
         "adresse":"Rue du Point du Jour",
-        "code_postal": "",
+        "code_postal": "02360",
         "commune": "Rozoy-sur-Serre",
         "info_localisation":"En face du collège",
         "precision_geo":"adresse",
@@ -1507,7 +1507,7 @@
       "properties":{  
         "salle":"Salle polyvalente",
         "adresse":"Rue de la Gare",
-        "code_postal": "",
+        "code_postal": "02120",
         "commune": "Sains-Richaumont",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1527,7 +1527,7 @@
       "properties":{  
         "salle":"Gymnase municipal",
         "adresse":"Rue du vieux moulin",
-        "code_postal": "",
+        "code_postal": "02150",
         "commune": "Sissonne",
         "info_localisation":"À côté du collège",
         "precision_geo":"adresse",
@@ -1548,7 +1548,7 @@
         "precision_geo":"rue",
         "salle":"Centre d'animation municipal espace multiloisirs Pierre Arnould",
         "adresse":"1 rue de Phalsbourg",
-        "code_postal": "",
+        "code_postal": "02100",
         "commune": "Saint-Quentin",
         "info_localisation":"2e étage, salle 101",
         "nom_court":"St Quentin / Harly ASPTT"
@@ -1566,7 +1566,7 @@
       "properties":{  
         "salle":" Palais des sports Pierre Ratte",
         "adresse":"Champs Élysées, Avenue de Remicourt",
-        "code_postal": "",
+        "code_postal": "02100",
         "commune": "Saint-Quentin",
         "info_localisation":"",
         "precision_geo":"adresse",
@@ -1586,7 +1586,7 @@
       "properties":{  
         "salle":"Salle des sports SNCF",
         "adresse":"Rue de l'Yser, Quessy-Cité",
-        "code_postal": "",
+        "code_postal": "02700",
         "commune": "Tergnier",
         "precision_geo":"adresse",
         "nom_long":"",
@@ -1606,7 +1606,7 @@
         "precision_geo":"adresse",
         "salle":"Centre sportif Lallier",
         "adresse":"Impasse de l'oiselet",
-        "code_postal": "",
+        "code_postal": "02200",
         "commune": "Venizel",
         "info_localisation":"",
         "nom_court":"Venizel TT",
@@ -1625,7 +1625,7 @@
       "properties":{  
         "salle":"Complexe sportif Jacques Gatineau",
         "adresse":"Avenue de Compiègne",
-        "code_postal": "",
+        "code_postal": "02600",
         "commune": "Villers-Cotterêts",
         "precision_geo":"adresse",
         "nom_long":"",
