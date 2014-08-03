@@ -2052,6 +2052,286 @@
           50.341585027674725
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "adresse": "Rue du 60e régiment d'infanterie",
+        "salle": "Salle polyvalente",
+        "code_postal": 80310,
+        "commune": "Foudrinoy",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Foudrinoy-Cavillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.106848359107971,
+          49.91773734740222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue de Bourgville",
+        "code_postal": 80800,
+        "commune": "Franvillers",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "commentaire": "",
+        "nom_court": "Franvillers ATT",
+        "info_localisation": "Au croisement avec la Rue de Contay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5078117847442627,
+          49.968299237648104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue de la place",
+        "info_localisation": "Sur la place du monument aux morts, au croisement de la D147, Rue d'Arras et de la Rue de Major Râper",
+        "precision_geo": "adresse",
+        "commune": "Fricourt",
+        "code_postal": 80300,
+        "nom_court": "Fricourt TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7137571573257446,
+          49.9971639814807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Restaurant scolaire Louis Pergaud",
+        "adresse": "Rue de l'abbé Caron",
+        "code_postal": 80130,
+        "commune": "Friville-Escarbotin",
+        "precision_geo": "adresse",
+        "nom_court": "Friville-Escarbotin-Belloy TT",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5385204553604126,
+          50.08176968854491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase André Mille",
+        "adresse": "Rue des alliés",
+        "code_postal": 80330,
+        "commune": "Longueau",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Longueau ESC",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3590296506881714,
+          49.86899641929654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase municipal",
+        "adresse": "Rue de la république",
+        "code_postal": 76260,
+        "commune": "Eu",
+        "info_localisation": "Approximativement au 68 Rue de la république",
+        "precision_geo": "rue",
+        "commentaire": "",
+        "nom_court": "Mers-Le Tréport-Eu TT",
+        "nom_long": "Tennis de table Mers Le Tréport Eu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4225310087203977,
+          50.048817153282656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Le Prieuré",
+        "adresse": "Rue du collège",
+        "code_postal": 80500,
+        "commune": "Montdidier",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Montdidier PPC",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5665119290351863,
+          49.651357225550164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Saint-Vaaast",
+        "adresse": "Rue basse des écoles",
+        "code_postal": 80110,
+        "commune": "Moreuil",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Moreuil PPC",
+        "info_localisation": "Rue qui jouxte la mairie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.483760416507721,
+          49.772213919294174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue de Paris",
+        "code_postal": 80400,
+        "commune": "Muille-Villette",
+        "info_localisation": "Immédiatement à côté du centre Norauto, côté ouest de la rue",
+        "precision_geo": "adresse",
+        "nom_long": "PPC Muillois",
+        "nom_court": "Muille PPC",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0672481656074524,
+          49.73112323516166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Centre culturel et sportif",
+        "adresse": "1 Avenue de l'Europe",
+        "code_postal": 80200,
+        "commune": "Péronne",
+        "info_localisation": "Entrée à l'extrémité de l'Avenue de la république",
+        "precision_geo": "adresse",
+        "nom_long": "Tennis de table Péronne",
+        "nom_court": "Péronne TT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9253539443016052,
+          49.93645308927603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle des fêtes",
+        "adresse": "Route nationale",
+        "code_postal": 80500,
+        "commune": "Pierrepont-sur-Avre",
+        "info_localisation": "Sur la même place que la mairie",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Pierrepont/Avre USL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5386008620262146,
+          49.71625782988846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "1 Rue de l'hirondelle",
+        "code_postal": 80110,
+        "commune": "Le Plessier-Rozainvillers",
+        "info_localisation": "Juste à côté de l'église",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Plessier-Rozainvillers SC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5518268346786495,
+          49.7488125612636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "",
+        "adresse": "Avenue du général Leclerc",
+        "code_postal": 80290,
+        "commune": "Poix-de-Picardie",
+        "info_localisation": "Dans les mêmes locaux que l'école de musique",
+        "precision_geo": "adresse",
+        "nom_long": "Union sportive Poix-de-Picardie tennis de table",
+        "nom_court": "Poix-de-Picardie USTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.9849178194999695,
+          49.77844440670324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle des fêtes",
+        "adresse": "Rue de l'église",
+        "code_postal": 80340,
+        "commune": "Proyart",
+        "precision_geo": "adresse",
+        "nom_long": "ASTT Proyart",
+        "nom_court": "Proyart ASTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.706137001514435,
+          49.88657668240032
+        ]
+      }
     }
   ]
 }
