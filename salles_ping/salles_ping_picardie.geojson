@@ -2332,6 +2332,106 @@
           49.88657668240032
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue de la forge",
+        "code_postal": 80320,
+        "commune": "Puzeaux",
+        "precision_geo": "rue",
+        "nom_long": "",
+        "nom_court": "Puzeaux AAE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8217482566833496,
+          49.797105092590996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "ATTRA",
+        "adresse": "",
+        "code_postal": 80800,
+        "commune": "Ribemont-sur-Ancre",
+        "precision_geo": "commune",
+        "commentaire": "Localisation : salle des sports Rue de la poste ?",
+        "nom_court": "Ribemont/Ancre TT",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5672146677970886,
+          49.959109800041624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase Gérard Vervoort",
+        "adresse": "Route de Champien",
+        "code_postal": 80700,
+        "commune": "Roye",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Roye PPC",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8002476692199707,
+          49.69595772104544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Groupe scolaire Gabriel Deray",
+        "adresse": "Rue du bosquet",
+        "code_postal": 80120,
+        "commune": "Rue",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "Union des pongistes de Rue",
+        "nom_court": "Rue UP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.672362685203552,
+          50.26953341338709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle Denis Tréboutte",
+        "adresse": "Place de la république",
+        "code_postal": 80480,
+        "commune": "Saleux",
+        "info_localisation": "Juste à côté de la mairie",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Saleux LL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.240492105484009,
+          49.86068198082312
+        ]
+      }
     }
   ]
 }
