@@ -2432,6 +2432,44 @@
           49.86068198082312
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nom_long": "",
+        "nom_court": "Somme TT",
+        "precision_geo": "adresse",
+        "code_postal": 80000,
+        "commune": "Amiens",
+        "adresse": "304 Rue Gaulthier de Rumilly",
+        "salle": "Salle Labaume"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2909069061279297,
+          49.880545045249264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue d'Amiens",
+        "code_postal": 80680,
+        "commune": "Saint-Fuscien",
+        "precision_geo": "adresse",
+        "nom_court": "St Fuscien TT",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.3146069049835205,
+          49.837190155163526
+        ]
+      }
     }
   ]
 }
