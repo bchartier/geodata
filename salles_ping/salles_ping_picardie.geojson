@@ -2470,6 +2470,25 @@
           49.837190155163526
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue du Séhu",
+        "code_postal": 80160,
+        "commune": "Saint-Sauflieu",
+        "precision_geo": "adresse",
+        "nom_court": "St Sauflieu ASL",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2538334131240845,
+          49.79028133811237
+        ]
+      }
     }
   ]
 }
