@@ -2489,6 +2489,143 @@
           49.79028133811237
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Gymnase intercommunal",
+        "adresse": "Rue Saint-Pierre",
+        "code_postal": 80230,
+        "commune": "Saint-Valery-sur-Somme",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "St Valery ASTT",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.6397202014923093,
+          50.18419108401831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "La Cologne",
+        "adresse": "Chemin de la fontaine",
+        "code_postal": 80240,
+        "commune": "Tincourt-Boucly",
+        "precision_geo": "rue",
+        "nom_court": "Tincourt-Boucly FR Cologne",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.043314814567566,
+          49.937766837813285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe sportif",
+        "adresse": "Route de Buigny",
+        "code_postal": 80132,
+        "commune": "Vauchelles-les-Quesnoy",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Vauchelles ASV"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.8956136703491213,
+          50.1033670580928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle des fêtes",
+        "adresse": "Rue Godard Dubuc",
+        "code_postal": 80650,
+        "commune": "Vignacourt",
+        "precision_geo": "adresse",
+        "nom_court": "Vignacourt CTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.197163701057434,
+          50.012524081798595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Salle polyvalente",
+        "adresse": "Rue de la briqueterie",
+        "code_postal": 80650,
+        "commune": "Vignacourt",
+        "info_localisation": "",
+        "precision_geo": "adresse",
+        "nom_long": "",
+        "nom_court": "Vignacourt CTT",
+        "commentaire": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.200666666030884,
+          50.012362059219534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe sportif René Capel",
+        "adresse": "Rue Philippe Ermenault",
+        "code_postal": 80420,
+        "commune": "Flixecourt",
+        "precision_geo": "adresse",
+        "nom_court": "Ville Le Marclet Flixecourt Ent",
+        "commentaire": "",
+        "nom_long": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0755201578140254,
+          50.01382713714525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "salle": "Complexe sportif",
+        "adresse": "12 rue Théodore Delacour",
+        "code_postal": 80800,
+        "commune": "Villers-Bretonneux",
+        "precision_geo": "adresse",
+        "nom_court": "Villers-Bretonneux PPC",
+        "nom_long": "PPC de Villers-Bretonneux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5173524022102356,
+          49.864603379017375
+        ]
+      }
     }
   ]
 }
