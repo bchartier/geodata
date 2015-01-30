@@ -640,15 +640,15 @@
         "adresse": "Rue Marcel Dassault",
         "code_postal": "60960",
         "commune": "Feuquières",
-        "precision_geo": "rue",
+        "precision_geo": "adresse",
         "nom_long": "",
         "nom_court": "Feuquières AP"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.8428277969360352,
-          49.64699999786453
+          1.8405157327651978,
+          49.64501315318981
         ]
       }
     },
@@ -1031,7 +1031,7 @@
     {
       "type": "Feature",
       "properties": {
-        "precision_geo": "rue",
+        "precision_geo": "adresse",
         "salle": "Salle polyvalente",
         "adresse": "Route de Noailles",
         "code_postal": "60730",
