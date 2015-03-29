@@ -1,0 +1,351 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire du cimetière de Rethondes",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9329928755760193,
+          49.42132417430971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument aux morts de Rethondes",
+        "country": "France",
+        "keywords": "monument",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.93933629989624,
+          49.416394995576304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stèle relatant le passage de ... à l'église de Rethondes",
+        "country": "France",
+        "keywords": "stèle",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9394838213920593,
+          49.41634090272715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Stèle relatant la chute d'un aéronef",
+        "country": "?",
+        "keywords": "stèle",
+        "precision": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9370805621147156,
+          49.41536024138255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée ??",
+        "country": "",
+        "keywords": "musée",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.940317988395691,
+          49.41620828774796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Statue ??",
+        "country": "?",
+        "keywords": "statue",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9057443141937256,
+          49.429370321865626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clairière de l'armistice",
+        "country": "",
+        "keywords": "armistice",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9064309597015376,
+          49.42728389340928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée de la clairière de l'armisitice",
+        "country": "",
+        "precision": 0,
+        "keywords": "musée"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9057121276855464,
+          49.426893114334284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire du cimetière d'Albert",
+        "country": "?",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6553118228912354,
+          49.9985088327616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière chinois de Nolette",
+        "Description": "Cimetière chinois de Nolette à Noyelles-sur-Mer",
+        "precision": 0,
+        "keywords": "cimetière"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.7228901386260986,
+          50.18622109812887
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Donjon du château de Coucy-le-Château-Auffrique",
+        "country": "",
+        "keywords": "ruine, château",
+        "precision": 0,
+        "Description": "Donjon dédruit après le retrait des troupes allemandes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3187347650527954,
+          49.521478853727785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière des buttes",
+        "country": "?",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5597983598709106,
+          49.86019091911884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Historial de la Grande Guerre",
+        "country": "",
+        "keywords": "musée, château",
+        "precision": 0,
+        "Description": "Musée de la première guerre mondiale"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.932180166244507,
+          49.92908265843147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lochnagar Crater",
+        "country": "",
+        "keywords": "cratère, mine",
+        "precision": 0,
+        "Description": "Impressionnant trou de mine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.697296440601349,
+          50.01603156434719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mont Saint-Quentin",
+        "Description": "Monument aux morts de la deuxième Division australienne",
+        "country": "Australie",
+        "keywords": "monument",
+        "precision": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9326844215393066,
+          49.94751266294162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée Somme 1916",
+        "keywords": "musée",
+        "precision": 1,
+        "Description": "Musée retraçant la vie des soldats dans les tranchées lors de l’offensive du 1er juillet 1916",
+        "country": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6486384868621826,
+          50.00438952893324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial Australien de Le Hamel",
+        "country": "Australie",
+        "keywords": "monument, tranchée",
+        "Description": "L'Australian Corps Mémorial rend hommage aux 100 000 soldats australiens qui ont servi dans l'Australian Corps de France sous les ordres du Général Monash.",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.58053719997406,
+          49.89989373422592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial de la 2e division australienne",
+        "country": "Australie",
+        "keywords": "monument",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.736250162124634,
+          50.044793599665226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial et Musée Sud-Africains",
+        "country": "Afrique-du-Sud",
+        "keywords": "monument, musée",
+        "precision": 0,
+        "Description": "A Longueval, dans le Bois Delville, ou \"Bois du Diable\", un mémorial et un musée sont consacrés aux soldats sud-africains ayant combattu dans la Somme en 1916"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.812703847885132,
+          50.02455014742964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière militaire du bois Delville",
+        "country": "Commonwealth",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8127172589302063,
+          50.024291665209105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial franco-britannique de Thiepval",
+        "country": "France, Grande-Bretagne, Afrique-du-Sud",
+        "keywords": "monument, cimetière",
+        "precision": 0,
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6879382133483887,
+          50.05106992041985
+        ]
+      }
+    }
+  ]
+}
