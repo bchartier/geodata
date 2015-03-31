@@ -1341,13 +1341,197 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "country": "Allemagne"
+        "country": "Allemagne",
+        "name": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           3.070332705974579,
           49.4777885470158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument américain de la Cote 204 ?",
+        "country": "Etats-Unis",
+        "keywords": "monument",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3702009916305538,
+          49.042703170490384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière américain Aisne-Marne",
+        "country": "Etats-Unis",
+        "keywords": "cimetière, monument",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2884633541107173,
+          49.077980803449435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Les fantômes de Landowski",
+        "country": "",
+        "keywords": "monument",
+        "precision": 0,
+        "Description": "Les Fantômes, sculpture érigée sur la Butte Chalmont près d’Oulchy-le-Château dans l’Aisne, est l’une des œuvres majeures de Paul Landowski1961)."
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4116196632385254,
+          49.21484991328756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière américain Oise-Aisne",
+        "country": "Etats-Unis",
+        "keywords": "cimetière, monument",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5490667819976807,
+          49.20092589056924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Autre site de la grande guerre ?",
+        "Description": "Qu'est-ce ? On dirait un cimetière juste au sud entre les arbres.",
+        "keywords": "",
+        "precision": 0,
+        "country": "",
+        "link1": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5503381490707397,
+          49.20113795203117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Description": "Musée fermé réouverture prévue en 2016",
+        "precision": 0,
+        "keywords": "musée",
+        "country": "France, Etats-Unis",
+        "name": "Musée franco-américain du Château de Blérancourt",
+        "link1": "http://museefrancoamericain.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1539130210876465,
+          49.517768235563814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire du cimetière général de Beauvais",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": "",
+        "country": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.0866969227790833,
+          49.4405039993768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Cambronne-Les-Ribécourt",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": "Quelques tombes de soldats tombés en 14-18"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8918290138244624,
+          49.493723365506334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Catenoy",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5150886178016663,
+          49.37334791239194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Compiègne",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.813597023487091,
+          49.40327835199391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Cuts",
+        "precision": 0,
+        "keywords": "cimetière",
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.092029094696045,
+          49.52941107508665
         ]
       }
     }
