@@ -119,7 +119,9 @@
         "name": "Musée de la clairière de l'armisitice",
         "country": "",
         "precision": 0,
-        "keywords": "musée"
+        "keywords": "musée",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/wagon-de-larmistice",
+        "Description": "Contient une réplique du wagon de l'armistice"
       },
       "geometry": {
         "type": "Point",
@@ -1460,7 +1462,8 @@
         "keywords": "cimetière",
         "precision": 0,
         "Description": "",
-        "country": ""
+        "country": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/beauvais"
       },
       "geometry": {
         "type": "Point",
@@ -1477,7 +1480,8 @@
         "country": "France",
         "keywords": "cimetière",
         "precision": 0,
-        "Description": "Quelques tombes de soldats tombés en 14-18"
+        "Description": "Quelques tombes de soldats tombés en 14-18",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cambronne-les-ribecourt"
       },
       "geometry": {
         "type": "Point",
@@ -1493,7 +1497,8 @@
         "name": "Nécropole militaire française de Catenoy",
         "country": "France",
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/catenoy"
       },
       "geometry": {
         "type": "Point",
@@ -1509,7 +1514,9 @@
         "name": "Nécropole militaire française de Compiègne",
         "country": "France",
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "Description": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/compiegne-0"
       },
       "geometry": {
         "type": "Point",
@@ -1525,13 +1532,293 @@
         "name": "Nécropole militaire française de Cuts",
         "precision": 0,
         "keywords": "cimetière",
-        "country": "France"
+        "country": "France",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cuts"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           3.092029094696045,
           49.52941107508665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/dompierre",
+        "name": "Nécropole militaire française de Dompierre",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.531720995903015,
+          49.59073088240407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bunker S.Z.247",
+        "country": "Allemagne",
+        "keywords": "ouvrage",
+        "precision": 4,
+        "Description": "Aucune idée de la localisation précise",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/dreslincourt-bunker"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9113340377807617,
+          49.5116262043001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française du Bois de Montrolles",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/le-bois-de-montrolles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9495823383331294,
+          49.1417936533035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Méry-la-Bataille",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/mery-la-bataille-0",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6289457082748413,
+          49.55312171511138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "keywords": "stèle",
+        "precision": 0,
+        "name": "Monument de l'artillerie spéciale",
+        "Description": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/monument-de-lartillerie-speciale-mery-la-bataille"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.628948390483856,
+          49.553302681398726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée Serge Ramond",
+        "keywords": "musée",
+        "country": "",
+        "precision": 2,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/musee-serge-ramond-verneuil-en-halatte",
+        "Description": "La mémoire des murs - graffiti historiques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.516587972640991,
+          49.27379689404355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Noyon",
+        "country": "France",
+        "precision": 0,
+        "keywords": "cimetière",
+        "Description": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/noyon-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.997304201126098,
+          49.586637755649875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire britannique de Noyon",
+        "country": "Angleterre",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9975321888923645,
+          49.58722896765008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Rémy",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "Description": "",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/remy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.6925167441368103,
+          49.427009999473164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Senlis",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/senlis"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.579617202281952,
+          49.209661719331955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Thiescourt",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/thiescourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.88540780544281,
+          49.56902156838878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire allemande de Thiescourt",
+        "country": "Allemagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/thiescourt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.884930372238159,
+          49.56869454182469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Tracy-le-Mont",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/tracy-le-mont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0175119638442993,
+          49.46753141320355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Verberie",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/verberie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.73808479309082,
+          49.31172567181858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Vignemont",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/vignemont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7628013491630554,
+          49.50478843445583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision": 0,
+        "keywords": "cimetière",
+        "country": "Allemagne",
+        "name": "Nécropole militaire allemande de Vignemont",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.763010561466217,
+          49.5053458024648
         ]
       }
     }
