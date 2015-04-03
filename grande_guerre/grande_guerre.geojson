@@ -487,7 +487,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "?",
+        "name": 1,
         "keywords": "cimetière",
         "precision": 0
       },
@@ -502,7 +502,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "?",
+        "name": 2,
         "keywords": "cimetière",
         "precision": 0,
         "country": ""
@@ -518,7 +518,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "?",
+        "name": 3,
         "keywords": "cimetière",
         "precision": 0
       },
@@ -534,7 +534,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 4,
         "precision": 0
       },
       "geometry": {
@@ -549,7 +549,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 5,
         "precision": 0
       },
       "geometry": {
@@ -564,7 +564,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 6,
         "precision": 0
       },
       "geometry": {
@@ -579,7 +579,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 7,
         "precision": 0
       },
       "geometry": {
@@ -594,7 +594,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 8,
         "precision": 0
       },
       "geometry": {
@@ -609,7 +609,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 9,
         "precision": 0
       },
       "geometry": {
@@ -624,7 +624,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?",
+        "name": 10,
         "precision": 0
       },
       "geometry": {
@@ -639,7 +639,7 @@
       "type": "Feature",
       "properties": {
         "precision": 2,
-        "name": "?",
+        "name": 11,
         "keywords": "?"
       },
       "geometry": {
@@ -654,7 +654,7 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "name": "?"
+        "name": 12
       },
       "geometry": {
         "type": "Point",
@@ -667,7 +667,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "?",
+        "name": 13,
         "keywords": "cimetière"
       },
       "geometry": {
@@ -683,7 +683,7 @@
       "properties": {
         "keywords": "cratère, mine",
         "precision": 2,
-        "name": "?"
+        "name": 14
       },
       "geometry": {
         "type": "Point",
@@ -696,7 +696,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "?",
+        "name": 15,
         "country": "",
         "keywords": "cimetière",
         "precision": 0
@@ -714,7 +714,7 @@
       "properties": {
         "keywords": "cimetière",
         "country": "Allemagne",
-        "name": "?",
+        "name": 16,
         "precision": 0
       },
       "geometry": {
@@ -730,7 +730,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "name": "?"
+        "name": 17
       },
       "geometry": {
         "type": "Point",
@@ -745,7 +745,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "name": "?"
+        "name": 18
       },
       "geometry": {
         "type": "Point",
@@ -760,7 +760,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "name": "?"
+        "name": 19
       },
       "geometry": {
         "type": "Point",
@@ -775,7 +775,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "name": "?"
+        "name": 20
       },
       "geometry": {
         "type": "Point",
@@ -790,7 +790,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "name": "?"
+        "name": 21
       },
       "geometry": {
         "type": "Point",
@@ -804,7 +804,7 @@
       "type": "Feature",
       "properties": {
         "Description": "Qu'est-ce que c'est ? Un monument ?",
-        "name": "??",
+        "name": 22,
         "precision": 0,
         "keywords": "??"
       },
@@ -820,7 +820,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 23
       },
       "geometry": {
         "type": "Point",
@@ -834,7 +835,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 24
       },
       "geometry": {
         "type": "Point",
@@ -848,7 +850,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 25
       },
       "geometry": {
         "type": "Point",
@@ -862,7 +865,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 26
       },
       "geometry": {
         "type": "Point",
@@ -876,7 +880,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 27
       },
       "geometry": {
         "type": "Point",
@@ -890,7 +895,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 28
       },
       "geometry": {
         "type": "Point",
@@ -904,7 +910,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 29
       },
       "geometry": {
         "type": "Point",
@@ -918,7 +925,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 30
       },
       "geometry": {
         "type": "Point",
@@ -932,7 +940,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 31
       },
       "geometry": {
         "type": "Point",
@@ -946,7 +955,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 32
       },
       "geometry": {
         "type": "Point",
@@ -960,7 +970,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 33
       },
       "geometry": {
         "type": "Point",
@@ -974,7 +985,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 34
       },
       "geometry": {
         "type": "Point",
@@ -988,7 +1000,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 35
       },
       "geometry": {
         "type": "Point",
@@ -1002,7 +1015,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 36
       },
       "geometry": {
         "type": "Point",
@@ -1016,7 +1030,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 37
       },
       "geometry": {
         "type": "Point",
@@ -1030,7 +1045,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 38
       },
       "geometry": {
         "type": "Point",
@@ -1044,7 +1060,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 39
       },
       "geometry": {
         "type": "Point",
@@ -1059,7 +1076,7 @@
       "properties": {
         "keywords": "cratère, mine",
         "precision": 1,
-        "name": ""
+        "name": 40
       },
       "geometry": {
         "type": "Point",
@@ -1073,7 +1090,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 41
       },
       "geometry": {
         "type": "Point",
@@ -1087,7 +1105,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 42
       },
       "geometry": {
         "type": "Point",
@@ -1101,7 +1120,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 43
       },
       "geometry": {
         "type": "Point",
@@ -1115,7 +1135,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 44
       },
       "geometry": {
         "type": "Point",
@@ -1129,7 +1150,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 45
       },
       "geometry": {
         "type": "Point",
@@ -1143,7 +1165,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 46
       },
       "geometry": {
         "type": "Point",
@@ -1157,7 +1180,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 47
       },
       "geometry": {
         "type": "Point",
@@ -1171,7 +1195,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 48
       },
       "geometry": {
         "type": "Point",
@@ -1185,7 +1210,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 49
       },
       "geometry": {
         "type": "Point",
@@ -1199,7 +1225,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 50
       },
       "geometry": {
         "type": "Point",
@@ -1213,7 +1240,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "monument",
-        "precision": 0
+        "precision": 0,
+        "name": 51
       },
       "geometry": {
         "type": "Point",
@@ -1228,7 +1256,7 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 1,
-        "name": ""
+        "name": 52
       },
       "geometry": {
         "type": "Point",
@@ -1242,7 +1270,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 53
       },
       "geometry": {
         "type": "Point",
@@ -1256,7 +1285,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 54
       },
       "geometry": {
         "type": "Point",
@@ -1270,7 +1300,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 55
       },
       "geometry": {
         "type": "Point",
@@ -1284,7 +1315,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "cimetière",
-        "precision": 0
+        "precision": 0,
+        "name": 56
       },
       "geometry": {
         "type": "Point",
@@ -1298,7 +1330,8 @@
       "type": "Feature",
       "properties": {
         "keywords": "monument",
-        "precision": 0
+        "precision": 0,
+        "name": 57
       },
       "geometry": {
         "type": "Point",
@@ -1313,7 +1346,8 @@
       "properties": {
         "keywords": "monument",
         "precision": 0,
-        "Description": "Qu'est-ce ?"
+        "Description": "Qu'est-ce ?",
+        "name": 58
       },
       "geometry": {
         "type": "Point",
@@ -1328,7 +1362,8 @@
       "properties": {
         "keywords": "cimetière",
         "precision": 0,
-        "country": ""
+        "country": "",
+        "name": 59
       },
       "geometry": {
         "type": "Point",
@@ -1344,7 +1379,7 @@
         "keywords": "cimetière",
         "precision": 0,
         "country": "Allemagne",
-        "name": ""
+        "name": 60
       },
       "geometry": {
         "type": "Point",
@@ -1812,13 +1847,296 @@
         "keywords": "cimetière",
         "country": "Allemagne",
         "name": "Nécropole militaire allemande de Vignemont",
-        "Description": ""
+        "Description": "",
+        "link1": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.763010561466217,
           49.5053458024648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbaye de Vauclair",
+        "keywords": "ruine, abbaye",
+        "country": "",
+        "precision": 0,
+        "link1": "http://www.abbaye-vauclair.fr/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.746262788772583,
+          49.4529986856738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole nationale de Bernagousse",
+        "keywords": "ossuaire, monument",
+        "country": "France",
+        "precision": 3,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/berganousse",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3123645186424255,
+          49.56763516945446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Berry-au-bac",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/berry-au-bac"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.898719549179077,
+          49.3972581123706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mémorial des chars d'assaut de Berry-au-Bac",
+        "country": "France",
+        "keywords": "monument",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/berry-au-bac-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8877761363983154,
+          49.413098712771095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carrières Mallet",
+        "country": "",
+        "keywords": "carrières",
+        "precision": 2,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/les-carrieres-mallet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.80661791563034,
+          49.54959099830429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PLaque souvenir des combats du 1er DCP du 9 juin 1918",
+        "keywords": "stèle",
+        "precision": 2,
+        "link1": "http://pages14-18.mesdiscussions.net/pages1418/Sites-et-vestiges-de-la-Grande-Guerre/carriere-plateau-claude-sujet_2431_1.htm",
+        "country": "France"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.81174898147583,
+          49.549484846632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "precision": 2,
+        "link1": "http://pages14-18.mesdiscussions.net/pages1418/Sites-et-vestiges-de-la-Grande-Guerre/carriere-plateau-claude-sujet_2431_1.htm",
+        "keywords": "cépulture",
+        "country": "France",
+        "name": "Tombe du Lieutenant de la Rochefoucault"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.810150384902954,
+          49.546230576883566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/braine",
+        "precision": 0,
+        "keywords": "cimetière",
+        "country": "France",
+        "name": "Nécropole militaire française de Braine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.531401753425598,
+          49.33508381791183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "name": "Nécropole militaire française de Cerny-en-Laonnois",
+        "country": "France",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cerny-en-laonnois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6666199564933777,
+          49.442860184527476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole allemande de Cerny-en-Laonnois",
+        "country": "Allemagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cerny-en-laonnois-necropoles-et-chapelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.66531103849411,
+          49.441885285231535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapelle de Cerny-en-Laonnois",
+        "country": "",
+        "keywords": "chapelle, monument",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cerny-en-laonnois-necropoles-et-chapelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.667145669460296,
+          49.44301539926357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lanterne des morts de Cerny-en-Laonnois",
+        "precision": 0,
+        "country": "",
+        "keywords": "monument",
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cerny-en-laonnois-necropoles-et-chapelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6676740646362305,
+          49.442821816764166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colonne des Britanniques",
+        "country": "Grande-Bretagne",
+        "keywords": "monument",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cerny-en-laonnois-necropoles-et-chapelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6685940623283386,
+          49.44219048834752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5482031106948853,
+          49.44911895998117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort de la Malmaison",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.52386474609375,
+          49.45960659009775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire française de Champs",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/champs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2487183809280396,
+          49.55021920265937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "keywords": "cimetière",
+        "precision": 0,
+        "country": "",
+        "name": 62
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2492199540138245,
+          49.549291684800465
         ]
       }
     }
