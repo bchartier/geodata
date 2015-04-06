@@ -36,10 +36,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stèle relatant le passage de ... à l'église de Rethondes",
+        "name": "Stèle relatant le passage du Maréchal Foch à l'église de Rethondes",
         "country": "France",
         "keywords": "stèle",
-        "precision": 0
+        "precision": 0,
+        "link1": "http://www.memorial-genweb.org/~memorial2/html/fr/resultcommune.php?insee=60534&dpt=60&idsource=201436&table=00"
       },
       "geometry": {
         "type": "Point",
@@ -52,10 +53,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Stèle relatant la chute d'un aéronef",
-        "country": "?",
+        "name": "Stèle relatant la chute d'un bombardier américain",
+        "country": "Etats-Unis",
         "keywords": "stèle",
-        "precision": 2
+        "precision": 1,
+        "link1": "http://www.memorial-genweb.org/~memorial2/html/fr/resultcommune.php?insee=60534&dpt=60&idsource=990245&table=bp99"
       },
       "geometry": {
         "type": "Point",
@@ -1411,7 +1413,8 @@
         "name": "Cimetière américain Aisne-Marne",
         "country": "Etats-Unis",
         "keywords": "cimetière, monument",
-        "precision": 0
+        "precision": 0,
+        "link1": "http://www.abmc.gov/cemeteries-memorials/europe/aisne-marne-american-cemetery"
       },
       "geometry": {
         "type": "Point",
@@ -1428,7 +1431,8 @@
         "country": "",
         "keywords": "monument",
         "precision": 0,
-        "Description": "Les Fantômes, sculpture érigée sur la Butte Chalmont près d’Oulchy-le-Château dans l’Aisne, est l’une des œuvres majeures de Paul Landowski1961)."
+        "Description": "Les Fantômes, sculpture érigée sur la Butte Chalmont près d’Oulchy-le-Château dans l’Aisne, est l’une des œuvres majeures de Paul Landowski1961).",
+        "link1": ""
       },
       "geometry": {
         "type": "Point",
@@ -2137,6 +2141,314 @@
         "coordinates": [
           3.2492199540138245,
           49.549291684800465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Chapelle Sainte-Berthe",
+        "country": "",
+        "keywords": "chapelle",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/chapelle-sainte-berthe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5508960485458374,
+          49.45307191799246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Chauny",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 1,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/chauny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2204452157020564,
+          49.62087450557572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de La Ville-aux-Bois",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cimetiere-britannique-de-la-ville-aux-bois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8638159632682796,
+          49.43075715456312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Canon de Coucy",
+        "country": "Allemagne",
+        "keywords": "ruine",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/coucy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.305406868457794,
+          49.52819068318474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Craonnelle",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/craonnelle"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7732028961181645,
+          49.43141828490393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Crécy-au-Mont",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/crecy-au-mont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.310709595680237,
+          49.4890541035469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière militaire allemand de Crécy-au-Mont",
+        "country": "Allemagne",
+        "keywords": "cimetière",
+        "precision": 1,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/crecy-au-mont"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.311608135700226,
+          49.4884826110442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Crouy",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/crouy"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3459189534187312,
+          49.40132172415924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française d'Effry",
+        "country": "Russie, Belgique, France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/effry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9815166592597957,
+          49.92414423628862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fort de Condé-sur-Aisne",
+        "country": "France, Allemagne",
+        "keywords": "ruine, fort",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/fort-de-conde-sur-aisne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4541916847229004,
+          49.401262378296636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Caverne du Dragon",
+        "country": "France, Allemagne",
+        "keywords": "carrière, musée",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/la-caverne-du-dragon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7327122688293453,
+          49.441719602744506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de la Désolation",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/la-desolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62922728061676,
+          49.876211825313945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière militaire allemand de la Désolation",
+        "country": "Allemagne",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/la-desolation"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.628438711166382,
+          49.876135770115425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française Le Bois Roger",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/le-bois-roger"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.193346858024597,
+          49.394297468700735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Moulin de Laffaux",
+        "country": "France",
+        "keywords": "monument, stèle",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/le-moulin-de-laffaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.438865542411804,
+          49.44991411080291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française Le Sourd",
+        "country": "France, Allemagne",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/leme-le-sourd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.733972907066345,
+          49.855883540787225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Borne du 13e R.I.T. dite \"Borne Poincaré\"",
+        "country": "France",
+        "keywords": "monument",
+        "precision": 0,
+        "link1": "http://www.memorial-genweb.org/~memorial2/html/fr/resultcommune.php?insee=60534&dpt=60&idsource=201435&table=00",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9394838213920593,
+          49.41634090272715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Vitrail commémoratif de l'église de Rethondes",
+        "country": "France",
+        "keywords": "église, vitrail",
+        "precision": 0,
+        "link1": "http://www.memorial-genweb.org/~memorial2/html/fr/resultcommune.php?insee=60534&dpt=60&idsource=201434&table=00",
+        "Description": "Vitrail représentant le Général Weygand et la Maréchal Foch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.939465045928955,
+          49.416382781067185
         ]
       }
     }
