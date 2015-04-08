@@ -2451,6 +2451,57 @@
           49.416382781067185
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française Les Chesneaux",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/les-chesneaux"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.400190770626068,
+          49.050526448178445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Monument aux enfants de Saint-Quentin",
+        "country": "France",
+        "keywords": "monument",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/les-monuments-aux-enfants-de-saint-quentin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.294946253299713,
+          49.842085587437765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "monument du Souvenir Français",
+        "country": "France",
+        "keywords": "monument",
+        "precision": 2,
+        "link1": "http://www.petit-patrimoine.com/fiche-petit-patrimoine.php?id_pp=02691_27"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2978081703186035,
+          49.84181920564207
+        ]
+      }
     }
   ]
 }
