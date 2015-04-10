@@ -2502,6 +2502,308 @@
           49.84181920564207
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Loupeigne",
+        "country": "France, Allemagne",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/loupeigne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.543935716152191,
+          49.24509389589302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Ly-Fontaine",
+        "country": "France",
+        "keywords": "monument, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/ly-fontaine"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3109992742538448,
+          49.73683375286799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "keywords": "monument",
+        "precision": 1,
+        "name": "Mémorial dédié à Joost van Vollenhoven",
+        "link1": "http://www.memorial-genweb.org/~memorial2/html/fr/resultcommune.php?idsource=42002"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.196613788604736,
+          49.27569385106817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Musée de la mémoire de Belleau",
+        "country": "",
+        "keywords": "musée",
+        "precision": 0,
+        "link1": "http://www.musee-memoire-souvenir-belleau.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.290834426879883,
+          49.08542611771587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole allemande de Vauxbuin",
+        "country": "Allemagne",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/necropole-allemande-de-vauxbuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2772302627563477,
+          49.34866424337227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Vauxbuin",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/necropole-francaise-de-vauxbuin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.277793526649475,
+          49.34946276965044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 101,
+        "keywords": "cimetière",
+        "country": "?",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5101854801177974,
+          49.408578833361055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole britannique de Vailly-sur-Aisne",
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/63900/VAILLY%20BRITISH%20CEMETERY",
+        "precision": 0,
+        "keywords": "cimetière",
+        "country": "Grande-Bretagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5094478726387024,
+          49.40877255101424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière italien de Soupir",
+        "country": "Italie",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/cimetiere-italien-de-soupir-0"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5836511850357056,
+          49.4020635413903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 102,
+        "country": "?",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.597314357757569,
+          49.40055371333695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 103,
+        "country": "?",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5983282327651978,
+          49.40055720432239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": 104,
+        "country": "?",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5973411798477173,
+          49.40041407371512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Neuilly-Saint-Front",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/neuilly-saint-front"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2399582862854004,
+          49.161542064488046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale française de Œuilly",
+        "country": "France",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/oeuilly"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6761552095413212,
+          49.39359219471492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Allemagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "name": "Nécropole allemande"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.502302467823028,
+          49.832801143122985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale d'Origny-Sainte-Benoite",
+        "country": "France",
+        "keywords": "ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/origny-sainte-benoite"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.509126007556915,
+          49.82804319099073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link1": "http://www.randonner.fr/Circuit/Le-belvedere-du-plateau-de-Californie",
+        "precision": 2,
+        "keywords": "",
+        "country": "",
+        "name": "Plateau de Californie"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7794041633605953,
+          49.444816900647915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/pontavert",
+        "name": "Nécropole militaire nationale de Pontavert"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.809595108032226,
+          49.404938195481
+        ]
+      }
     }
   ]
 }
