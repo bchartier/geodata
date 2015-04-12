@@ -2608,10 +2608,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": 101,
+        "name": "Nécropole militaire nationale française de Vailly-sur-Aisne",
         "keywords": "cimetière",
-        "country": "?",
-        "precision": 0
+        "country": "France",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/vailly-sur-aisne"
       },
       "geometry": {
         "type": "Point",
@@ -2658,26 +2659,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": 102,
-        "country": "?",
-        "keywords": "cimetière",
-        "precision": 0
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.597314357757569,
-          49.40055371333695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": 103,
-        "country": "?",
-        "keywords": "cimetière",
-        "precision": 0
+        "name": "Nécropole militaire nationale française de Soupir (1)",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/soupir-cimetiere-1"
       },
       "geometry": {
         "type": "Point",
@@ -2690,11 +2676,11 @@
     {
       "type": "Feature",
       "properties": {
-        "name": 104,
-        "country": "?",
-        "keywords": "cimetière",
+        "name": "Nécropole militaire nationale française de Soupir (2)",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
         "precision": 0,
-        "link1": ""
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/soupir-cimetiere-2"
       },
       "geometry": {
         "type": "Point",
@@ -2802,6 +2788,91 @@
         "coordinates": [
           3.809595108032226,
           49.404938195481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale de Saint-Quentin",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/saint-quentin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2627704739570618,
+          49.854379066874436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale de Vauxaillon",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/vauxaillon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4109410643577576,
+          49.47082229608518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de Vendresse",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/33402/VENDRESSE%20BRITISH%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6705654859542847,
+          49.432609692545824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale de Vic-sur-Aisne",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/vic-sur-aisne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.108648061752319,
+          49.40896626790307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nécropole militaire nationale de Villers-Cotterêts",
+        "country": "France",
+        "keywords": "cimetière, ossuaire",
+        "precision": 0,
+        "link1": "http://www.cheminsdememoire.gouv.fr/fr/villers-cotterets"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.0871421098709106,
+          49.26216331234537
         ]
       }
     }
