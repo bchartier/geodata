@@ -2875,6 +2875,230 @@
           49.26216331234537
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de Brancourt-le-Grand",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/65007/BRANCOURT-LE-GRAND%20MILITARY%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.385438621044159,
+          49.973693721024816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire britannique du cimetière communale d'Annois",
+        "country": "Grande-Bretagne",
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/64105/ANNOIS%20COMMUNAL%20CEMETERY",
+        "keywords": "cimetière",
+        "precision": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.182215690612793,
+          49.718125575676325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de Beaurevoir",
+        "country": "Grande-Bretagne, Afrique du Sud",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/65002/BEAUREVOIR%20BRITISH%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3102643489837646,
+          50.002255252125344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Beaurevoir",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/65000/BEAUREVOIR%20COMMUNAL%20CEMETERY",
+        "Description": "4 sépultures britanniques non isolées"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3179381489753723,
+          49.99273087841585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "country": "Grande-Bretagne, Afrique du Sud",
+        "name": "Extension britannique au cimetière communal de Beaurevoir",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/65001/BEAUREVOIR%20COMMUNAL%20CEMETERY%20BRITISH%20EXTENSION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3175304532051086,
+          49.992458430125026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "CCimetière communale d'Annois",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/33506/BECQUIGNY%20COMMUNAL%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.469592928886413,
+          50.0174224214219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de Bellicourt",
+        "country": "Grande-Bretagne, Australie",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2000075/BELLICOURT%20BRITISH%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.228961229324341,
+          49.96133054023387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire britannique du cimetière communal de Pontru",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2096853/BERTHAUCOURT%20COMMUNAL%20CEMETERY,%20PONTRU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.21112722158432,
+          49.90184424327306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Bézu-le-Guéry",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/63915/BEZU-LE-GUERY%20COMMUNAL%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.227925896644592,
+          49.00994631946277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Blérancourt",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/64115/BLERANCOURT%20COMMUNAL%20CEMETERY",
+        "Description": "Contient une sépulture d'un soldat britannique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1532853841781616,
+          49.51343563246563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Bourg-et-Comin",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/33415/BOURG-ET-COMIN%20COMMUNAL%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6553278565406795,
+          49.396622706246525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Carré militaire du cimetière communal de Braine",
+        "country": "France, Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/63905/BRAINE%20COMMUNAL%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.536025881767273,
+          49.34319652380794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Brancourt-le-Grand",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/65006/BRANCOURT-LE-GRAND%20COMMUNAL%20CEMETERY",
+        "Description": "Contient la sépulture d'un officier britannique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.386736810207367,
+          49.97393350014126
+        ]
+      }
     }
   ]
 }
