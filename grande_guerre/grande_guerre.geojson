@@ -2266,7 +2266,10 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Nécropole militaire nationale française de Crouy",
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "",
+        "name": "Nécropole militaire nationale française de Crouy-Vauxrot",
         "country": "France",
         "keywords": "cimetière, ossuaire",
         "precision": 0,
@@ -2965,7 +2968,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "CCimetière communale d'Annois",
+        "name": "Cimetière communale d'Annois",
         "country": "Grande-Bretagne",
         "keywords": "cimetière",
         "precision": 0,
@@ -3097,6 +3100,220 @@
         "coordinates": [
           3.386736810207367,
           49.97393350014126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière de l'église de Brissay-Choigny",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2096876/BRISSAY-CHOIGNY%20CHURCHYARD",
+        "Description": "1 sépulture britannique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.376375436782837,
+          49.72420175572242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Bucy-le-Long",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/27619/BUCY-LE-LONG%20COMMUNAL%20CEMETERY",
+        "Description": "2 sépultures britanniques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3926591277122498,
+          49.3979319131807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de Buzancy",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/27602/BUZANCY%20MILITARY%20CEMETERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3418554067611694,
+          49.31452168066127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/64116/CAILLOUEL%20CHURCHYARD",
+        "precision": 1,
+        "keywords": "cimetière",
+        "Description": "1 sépulture britannique",
+        "country": "Grande-Bretagne",
+        "name": "Cimetière de l'église de Caillouël-Crépigny"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1273457407951355,
+          49.62091447148048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique du calvaire de Montbrehain",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/61605/CALVAIRE%20CEMETERY,%20MONTBREHAIN",
+        "country": "Australie, Grande-Bretagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.34545761346817,
+          49.969327462125264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Castres",
+        "country": "Grande-Bretagne",
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/63307/CASTRES%20COMMUNAL%20CEMETERY",
+        "precision": 0,
+        "keywords": "cimetière",
+        "Description": "1 sépulture britannique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.238120973110199,
+          49.80688626559388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière britannique de La Chapelle de Holnon",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2096854/CHAPELLE%20BRITISH%20CEMETERY,%20HOLNON",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2150620222091675,
+          49.86326688884457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Extension britannique au cimetière communal de Chauny",
+        "country": "Grande-Bretagne",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/34400/CHAUNY%20COMMUNAL%20CEMETERY%20BRITISH%20EXTENSION",
+        "Description": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2210996747016907,
+          49.62172942125888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/27621/CIRY-SALSOGNE%20COMMUNAL%20CEMETERY",
+        "precision": 0,
+        "keywords": "cimetière",
+        "name": "Cimetière communal de Ciry-Salsogne",
+        "country": "Grande-Bretagne",
+        "Description": "3 sépultures britanniques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4588372707366943,
+          49.365241925088064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2095910/CLERMONT%20%28CLERMONT-LES-FERMES%29%20CHURCHYARD",
+        "name": "Cimetière de l'église de Clermont-les-Fermes",
+        "country": "Grande-Bretagne",
+        "Description": "1 sépulture britannique"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9378288388252254,
+          49.66708619357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Cœuvres-et-Valsery",
+        "country": "Grande-Bretagne, Canada, Australie",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/63919/COEUVRES-ET-VALSERY%20COMMUNAL%20CEMETERY",
+        "Description": "11 sépultures britanniques"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1556564569473267,
+          49.338542629655194
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cimetière communal de Esquéhéries",
+        "keywords": "cimetière",
+        "precision": 0,
+        "link1": "http://www.cwgc.org/find-a-cemetery/cemetery/2095911/ESQUEHERIES%20COMMUNAL%20CEMETERY",
+        "Description": "2 sépultures britanniques",
+        "country": "Grande-Bretagne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.751506507396698,
+          49.984946526311404
         ]
       }
     }
