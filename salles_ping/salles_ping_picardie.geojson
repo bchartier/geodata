@@ -1938,12 +1938,12 @@
     {
       "type": "Feature",
       "properties": {
-        "precision_geo": "rue",
+        "precision_geo": "adresse",
         "nom_court": "Dreuil TT",
         "commune": "Amiens",
         "code_postal": 80000,
-        "adresse": "Rue d'Alsace",
-        "salle": "Halle des Sports Étouvie"
+        "adresse": "Rue De L'ile De France",
+        "salle": "Halle des Sports d'Étouvie"
       },
       "geometry": {
         "type": "Point",
